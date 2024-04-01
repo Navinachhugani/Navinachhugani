@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Data Analytics
 - 💬 Ask me about Data, SQL, Analytics
 - 📫 How to reach me Navinachhugani@gmail.com / https://www.linkedin.com/in/navinachhugani/
-- 
 
 
 <!---
