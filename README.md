@@ -2,7 +2,9 @@
   A Passionate Data Analyst
 - 🌱 I’m currently learning Data Analytics
 - 💬 Ask me about Data, SQL, Analytics
-- 📫 How to reach me Navinachhugani@gmail.com
+- 📫 How to reach me Navinachhugani@gmail.com / https://www.linkedin.com/in/navinachhugani/
+- 
+
 
 <!---
 Navinachhugani/Navinachhugani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
