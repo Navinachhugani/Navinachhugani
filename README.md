@@ -1,6 +1,6 @@
 - Hi👋, I’m @Navinachhugani
-  A Passionate Data Analyst
-- 🌱 I’m currently learning Data Analytics
+  A Passionate HR Analyst
+- 🌱 I’m currently learning HR Analytics
 - 💬 Ask me about Data, SQL, Analytics
 - 📫 How to reach me Navinachhugani@gmail.com / https://www.linkedin.com/in/navinachhugani/
 
