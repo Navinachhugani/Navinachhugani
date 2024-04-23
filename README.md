@@ -9,12 +9,9 @@
 - 💫 Experience: **Data Analyst and Business Analyst Intern @MeriSkill and @ConTechxs Solutions Pvt.Ltd.**
 
 - 👯 I’m looking to collaborate on: **Data Analyst Projects.**
-- 👨‍💻 Checkout my Portfolio:: https://linktr.ee/navinachhugani
-- 👨‍💻 Checkout my BI Portfolio:: https://www.novypro.com/profile_about/navinachhugani
 - 💬 Ask me about: **Data, SQL, Python, Power Bi, Excel and Analytics.**
-- 🌻 I am available for : **Data Analyst and Business Analyst roles.**
+- 🌻 I am available for : **Data Analyst, Business Analyst, HR Analyst, TA Analyst roles.**
 - 📫 How to reach me: **Phone:- +91 9165044472, Email:- Navinachhugani@gmail.com.**
-- ⭐ Explore my Live Visualization Dashboards:[**Click Here**](https://www.novypro.com/profile_about/navinachhugani)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
