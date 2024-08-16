@@ -2,15 +2,15 @@
 
 ###
 <h1 align="center">Hi 👋, I'm Navina Chhugani</h1>
-<h3 align="center">" A Passionate Data Analyst: Sculpting Insights from Raw Data"</h3>
+<h3 align="center">" A Passionate Analyst: Sculpting Insights from Raw Data"</h3>
 <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="450px" align="right" alt="">
 
-- 🌱 I’m currently using and mastering Tools like **SQL, Tableau, Excel and Power BI.**
-- 💫 Experience: **Data Analyst and Business Analyst Intern @MeriSkill and @ConTechxs Solutions Pvt.Ltd.**
+- 🌱 I’m currently using and mastering Tools like **Advance Excel**
 
-- 👯 I’m looking to collaborate on: **Data Analyst Projects.**
-- 💬 Ask me about: **Data, SQL, Python, Power Bi, Excel and Analytics.**
-- 🌻 I am available for : **Data Analyst, Business Analyst, HR Analyst, TA Analyst roles.**
+
+- 👯 I’m looking to collaborate on: **Research Analyst Projects.**
+- 💬 Ask me about: **Excel and Analytics.**
+- 🌻 I am available for : **Research Analyst, TA Analyst roles.**
 - 📫 How to reach me: **Phone:- +91 9165044472, Email:- Navinachhugani@gmail.com.**
 
 <h3 align="left">Connect with me:</h3>
