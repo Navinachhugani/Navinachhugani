@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on: **Research Analyst Projects.**
 - 💬 Ask me about: **Excel and Analytics.**
 - 🌻 I am available for : **Research Analyst, TA Analyst roles.**
-- 📫 How to reach me: **Phone:- +91 9165044472, Email:- Navinachhugani@gmail.com.**
+- 📫 How to reach me: **Email:- Navinachhugani@gmail.com.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
